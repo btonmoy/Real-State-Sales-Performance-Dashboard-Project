@@ -1,0 +1,28 @@
+
+Project: Real Estate Sales Performance Dashboard.
+
+
+Problem Statement:
+
+1.  We Shown KPI's visuals total Sales, total Target, total Revenue, total Property also property status (Several 3 KPI'S) and added a yearly slicer that you can see specific yearly data.
+
+2. We shown here Property Sales by Agent.
+
+3. We shown here comparison monthly wise Sold Properties vs New Properties.
+
+4. We shown here Agent contribution by sales.
+
+5. We shown here Projectes according Revenue. 
+
+6. We shown here month wise sales target.
+
+7. We shown here state wise sales.( Use Shape Map )
+
+8. We shown here Collection Bucket Account name wise.( Which Process Mostly Use For Money Transaction ).
+
+9. We show here table data for see the details data on property.
+
+10. We have used decomposition visual for analyze data.
+
+
+ ( Project from Bi Shikha Youtube Channel )
